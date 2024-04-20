@@ -51,7 +51,13 @@ To run the analysis, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Download the dataset `netflix_data.csv` from the Datacamp platform and place it in the project directory.
-3. Run the `movie_duration_analysis.ipynb` Jupyter Notebook to execute the analysis steps.
+3. Run the `main.py` Python script to execute the analysis steps.
+
+## File Structure
+
+- `main.py`: Python script containing the analysis code.
+- `netflix_data.csv`: Dataset containing information about movies on Netflix.
+- `LICENSE`: MIT License file.
 
 ## Contributors
 
